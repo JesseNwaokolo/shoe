@@ -41,6 +41,7 @@ h4{
 .shoe-vec{
     display: flex;
     align-items: center;
+    justify-content:center;
     margin-top:10px
     column-gap: 50px;
 }
