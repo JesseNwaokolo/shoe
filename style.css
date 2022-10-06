@@ -41,6 +41,7 @@ h4{
 .shoe-vec{
     display: flex;
     align-items: center;
+    margin-top:10px
     column-gap: 50px;
 }
 
@@ -125,7 +126,7 @@ h4{
 
 #em{
     display: block;
-    width: 30%;
+    width: 40%;
     outline: none;
     border-radius: 20px;
     margin: 20px auto;
@@ -136,11 +137,12 @@ h4{
     text-align: center;
     background-color:rgba(0, 22, 22, 0.562)  ;
     color: white;
+    padding:100px 30px;
 }
 
 #footer{
     display: flex;
     justify-content: center;
-    column-gap: 30px;
+    column-gap: 10px;
     align-items: center;
 }
