@@ -50,6 +50,11 @@ h4{
     margin: 0 auto;
 }
 
+.car{
+   width:60%;
+   margin:auto;
+}
+
 #hero{
     background-color: rgba(0, 22, 22, 0.562);
     color: white;
