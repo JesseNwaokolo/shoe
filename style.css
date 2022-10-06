@@ -1,0 +1,146 @@
+
+body{
+    font-family: 'Monteserrat' sans-serif;
+    padding:0 3%;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+h4{
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #333333;
+}
+
+.gend{
+    display: inline-flex;
+    padding: 5px 10px;
+}
+
+.gend a{
+    text-decoration: none;
+    margin: 0 10px;
+    color: #333333;
+    text-align: center;
+}
+
+.mynav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 30px 20px;
+}
+
+.blue{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.shoe-vec{
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+}
+
+.shoe-vec i{
+    margin: 0 auto;
+}
+
+#hero{
+    background-color: rgba(0, 22, 22, 0.562);
+    color: white;
+    padding: 100px 50px;
+}
+
+.hero-txt{
+    text-align: center;
+}
+
+#mid{
+    background-color:rgba(0, 22, 22, 0.562) ;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+}
+
+#body{
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.body-shoe{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.arr{
+    align-self: center;
+}
+
+#body2{
+    background-image:url("image/run.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 100px 20px 50px;
+}
+
+.a{
+    text-decoration: none;
+    display: inline-block;
+    margin: 50px 25px 0 0;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    color: black;
+    font-weight: 700;
+}
+
+.a:hover{
+    background-color: black;
+    color: white;
+}
+
+.c{
+    background-color: black;
+    color: white;
+}
+
+.c:hover{
+    background-color: white;
+    color: black;
+}
+
+#body2-foot{
+    background-color:white;
+    text-align: center;
+    padding: 100px 50px;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+
+#em{
+    display: block;
+    width: 30%;
+    outline: none;
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 5px 10px;
+}
+
+#space{
+    text-align: center;
+    background-color:rgba(0, 22, 22, 0.562)  ;
+    color: white;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    align-items: center;
+}
